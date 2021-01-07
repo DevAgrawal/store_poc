@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Renewate</string>
+    <string name="product">Product List</string>
+    <string name="cart">Cart</string>
+    <string name="rupee_sign">₹</string>
+    <string name="order_amount">Order Amount</string>
+    <string name="estimate_gst">Estimate GST </string>
+    <string name="total_amount">Total Amount </string>
+</resources>
